@@ -3,7 +3,7 @@ import CardList from './CardList'
 import SearchBox from './SearchBox'
 import { robots } from './robots';
 
-function App() {
+const App = () => {
   return (
     <div className='tc'>
       <h1>RoboFriends</h1>
